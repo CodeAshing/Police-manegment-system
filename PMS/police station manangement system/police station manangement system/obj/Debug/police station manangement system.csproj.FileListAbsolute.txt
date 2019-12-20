@@ -1,0 +1,25 @@
+D:\police station system\police station manangement system\police station manangement system\bin\Debug\police station manangement system.exe.config
+D:\police station system\police station manangement system\police station manangement system\bin\Debug\police station manangement system.exe
+D:\police station system\police station manangement system\police station manangement system\bin\Debug\police station manangement system.pdb
+D:\police station system\police station manangement system\police station manangement system\obj\Debug\police station manangement system.csprojResolveAssemblyReference.cache
+D:\police station system\police station manangement system\police station manangement system\obj\Debug\police_station_manangement_system.login.resources
+D:\police station system\police station manangement system\police station manangement system\obj\Debug\police_station_manangement_system.Properties.Resources.resources
+D:\police station system\police station manangement system\police station manangement system\obj\Debug\police station manangement system.csproj.GenerateResource.Cache
+D:\police station system\police station manangement system\police station manangement system\obj\Debug\police station manangement system.exe
+D:\police station system\police station manangement system\police station manangement system\obj\Debug\police station manangement system.pdb
+D:\police station system\police station manangement system\police station manangement system\obj\Debug\police_station_manangement_system.dashboard.resources
+D:\police station system\police station manangement system\police station manangement system\obj\Debug\police_station_manangement_system.criminal.resources
+D:\police station system\police station manangement system\police station manangement system\obj\Debug\police_station_manangement_system.cases.resources
+D:\police station system\police station manangement system\police station manangement system\obj\Debug\police_station_manangement_system.firCU.resources
+D:\police station system\police station manangement system\police station manangement system\bin\Debug\WatermarkControlsLib.dll
+D:\police station system\police station manangement system\police station manangement system\bin\Debug\Windows.Forms.HintTextBox.dll
+D:\police station system\police station manangement system\police station manangement system\bin\Debug\Windows.Forms.HintTextBox.pdb
+D:\police station system\police station manangement system\police station manangement system\obj\Debug\police_station_manangement_system.firU1.resources
+D:\police station system\police station manangement system\police station manangement system\obj\Debug\police_station_manangement_system.firV.resources
+D:\police station system\police station manangement system\police station manangement system\obj\Debug\police_station_manangement_system.crC.resources
+D:\police station system\police station manangement system\police station manangement system\obj\Debug\police_station_manangement_system.crU.resources
+D:\police station system\police station manangement system\police station manangement system\obj\Debug\police_station_manangement_system.crV.resources
+D:\police station system\police station manangement system\police station manangement system\obj\Debug\police_station_manangement_system.cC.resources
+D:\police station system\police station manangement system\police station manangement system\obj\Debug\police_station_manangement_system.cU.resources
+D:\police station system\police station manangement system\police station manangement system\obj\Debug\police_station_manangement_system.cV.resources
+D:\police station system\police station manangement system\police station manangement system\obj\Debug\police_station_manangement_system.FIR.resources
